@@ -1,0 +1,4 @@
+# This is to set up a cron job to run the automation script once every 24 hours. 
+1 */24 * * * root /home/ubuntu/Automation_Project/automation.sh
+
+
