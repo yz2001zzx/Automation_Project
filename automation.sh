@@ -4,6 +4,9 @@
 
 # Project: Automation Project 
 
+# This script has been validated and the execuation of all the operations is aligned with my expectation.
+# The tar file can be found in S3 Bucket after running this script
+
 ##################################################################################################
 #	                          Task 2
 ##################################################################################################
